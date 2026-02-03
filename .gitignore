@@ -9,3 +9,8 @@ alo
 # mình muốn bỏ qua file abc.xyz nhưng vẫn giữ myfile[.xyz
 # sẽ chỉ bỏ qua các file .xyz ở trong git repo
 /*.xyz
+
+# mình muốn bỏ qua file abc.txt trong folder second_folder
+# Ubunto sử dụng / là path seperation
+# Windows thì sử dụng // hoặc \ 
+second_folder/abc.txt
