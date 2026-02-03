@@ -14,3 +14,5 @@ alo
 # Ubunto sử dụng / là path seperation
 # Windows thì sử dụng // hoặc \ 
 second_folder/abc.txt
+
+second_folder\my.txt
