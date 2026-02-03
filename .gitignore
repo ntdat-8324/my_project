@@ -1,0 +1,7 @@
+
+# day la commet, khongco tac dung ignore files/folders
+# alo  alo/ => Git khong theo doi thu muc alo
+alo
+
+# chung ta se bo qua tat ca nhung file có duoi la .log
+*.log
